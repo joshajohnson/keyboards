@@ -9,10 +9,11 @@
     },
     "layouts": {
       "labels": [
-        "Numpad Plus",
-        "Numpad Enter",
-        "Numpad Zero",
+        "Split Plus",
+        "Split Enter",
+        "Split Zero",
         "Split Space",
+        "1U Mods",
         "Split Backspace"
       ],
       "keymap": [
